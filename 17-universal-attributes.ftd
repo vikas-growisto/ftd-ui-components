@@ -1,0 +1,68 @@
+;; move-up,down,left & right is working in 0.2 not in 0.3
+;; top,left,right & bottom is not working in 0.2 & 0.3
+;; id is working in 0.2 not in 0.3
+;; scale is working in 0.2 not in 0.3
+;; background-color is working in 0.2 not in 0.3 / only color is working
+;; border-top,bottom,right & left is working in 0.2 not in 0.3
+;; border-style & border-color is working in 0.2 not in 0.3
+;; rotate is working in 0.2 not in 0.3
+;; border-top-radius,bottom-radius,right-radius & left-radius is working in 0.2 not in 0.3
+;; padding is working in 0.2 & 0.3
+;; width & height is working in 0.2 not in 0.3 
+;; also width & height is not showing any error in 0.3 of  .px
+;; as width & height is not working can't check the overflow property 
+;; cursor: pointer is working in 0.2 not in 0.3
+;; link open in new tab is working in 0.2 not in 0.3
+;; region h0 - h5 works as h1 - h6 tag in HTML but ftd h6 & h7 looks like normal text / is working in 0.2 not in 0.3
+;; gradient-colors is working in 0.2 not in 0.3
+;; shadow-color is working in 0.2 not in 0.3
+;; white-space & text-transform is working in 0.2 not in 0.3
+
+
+
+
+
+
+-- ftd.color yellow:
+ light: yellow
+ dark: yellow
+
+-- ftd.text: FifthTry1
+move-right: 20
+;;top: 20
+background-color: $yellow
+padding.px: 5
+
+-- ftd.color red:
+ light: red
+ dark: red
+
+-- ftd.text: FifthTry2
+scale: 1.5
+color: $red
+padding.px: 5
+
+-- ftd.color green:
+light: green
+dark: green
+
+-- ftd.text: test
+color: $green
+
+-- ftd.text: demo
+background-color: $green
+
+-- ftd.text: Border
+border-width.px: 2
+
+-- ftd.text: FifthTry
+border-top: 2
+
+-- ftd.text: FifthTry
+border-bottom: 2
+
+-- ftd.text: FifthTry
+border-left: 2
+
+-- ftd.text: FifthTry
+border-right: 2

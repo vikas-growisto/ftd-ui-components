@@ -1,0 +1,19 @@
+;; A component in ftd is similar to “react component”, what dose this star means
+
+-- string name: Test
+-- string name: Demo
+
+-- component print:
+string name:
+
+-- ftd.text: $print.name
+
+-- end: print
+
+-- print:
+name: $name
+
+-- print:
+name: *$name
+
+

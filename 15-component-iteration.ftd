@@ -1,0 +1,14 @@
+;; List is also working as an component. It also had closing
+
+-- string list locations:
+
+-- string: Varanasi
+-- string: Prayagraj
+-- string: Bengaluru
+-- string: Meerut
+
+-- end: locations
+
+
+-- ftd.text: $obj
+$loop$: $locations as $obj

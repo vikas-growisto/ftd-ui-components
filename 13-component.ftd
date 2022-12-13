@@ -1,0 +1,24 @@
+;; Row & column is also working as component. It has an closing
+
+-- component print:
+string $name:
+
+
+-- ftd.row:
+padding.px: 40
+
+-- ftd.text: $print.name
+
+-- end: ftd.row
+
+
+-- end: print
+
+-- string $name: Name 1
+
+-- print:
+$name: $name
+
+
+-- print:
+$name: *$name
