@@ -1,0 +1,17 @@
+;; cursor: pointer is working in 0.2 not in 0.3
+
+;;-- import: fpm
+
+
+-- ftd.row:
+width: fill
+border-width.px: 5
+;;border-color: $fpm.color.main.text
+padding.px: 10
+cursor: pointer
+
+
+-- ftd.text: this row has pointer as cursor
+width: fill
+
+-- end: ftd.row

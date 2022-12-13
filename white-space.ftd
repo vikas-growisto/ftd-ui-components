@@ -1,0 +1,15 @@
+;; dose not works in 0.3
+
+-- ftd.text:
+white-space: nowrap
+
+But ere she from the church-door stepped She smiled and told us why:
+'It was a wicked woman's curse,' Quoth she, 'and what care I?' She smiled,
+and smiled, and passed it off Ere from the door she stept—
+
+-- ftd.text:
+text-transform: uppercase
+
+But ere she from the church-door stepped She smiled and told us why:
+'It was a wicked woman's curse,' Quoth she, 'and what care I?' She smiled,
+and smiled, and passed it off Ere from the door she stept—

@@ -1,0 +1,71 @@
+;; sticky works in 0.2 with top value
+
+-- ftd.text: FifthTry-1
+sticky: true
+top: 10
+
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+-- ftd.text: FifthTry
+
+
+-- ftd.text: FifthTry
+top: 1

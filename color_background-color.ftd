@@ -1,0 +1,15 @@
+;; background-color is working in 0.2 not in 0.3 / only color is working
+
+-- ftd.color red:
+light: red
+dark: red
+
+-- ftd.color yellow:
+light: yellow
+dark: yellow
+
+-- ftd.text: FifthTry
+color: $red
+
+-- ftd.text: FifthTry
+background-color: $yellow

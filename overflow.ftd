@@ -1,0 +1,23 @@
+;; as width & height is not working can't check the overflow property 
+
+-- ftd.text:
+;;background-color: $red
+width: 80
+height: 100
+overflow-x: scroll
+
+Lorem ipsum dolor sit amet, and a veryveryveryveryveryverylong
+word consectetuer adipiscing elit, sed diam nonummy nibh euismod
+tincidunt ut laoreet dolore magna aliquam erat
+
+
+-- ftd.text:
+;;background-color: $red
+width: 200
+height: 100
+overflow-y: scroll
+
+Lorem ipsum dolor sit amet, and a veryveryveryveryveryverylong
+word consectetuer adipiscing elit, sed diam nonummy nibh euismod
+tincidunt ut laoreet dolore magna aliquam erat
+

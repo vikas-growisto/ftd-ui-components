@@ -1,0 +1,5 @@
+-- ftd.row:
+width: 400
+height: 200
+gradient-direction: left to right
+gradient-colors: red , blue

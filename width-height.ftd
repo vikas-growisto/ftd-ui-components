@@ -1,0 +1,28 @@
+;; width & height is working in 0.2 not in 0.3 
+;; also width & height is not showing any error in 0.3 of  .px
+
+-- ftd.text: FifthTry-1
+width: 200
+
+-- ftd.color yellow:
+ light: yellow
+ dark: yellow
+
+-- ftd.text: FifthTry-2
+min-width: 150
+background-color: $yellow
+
+-- ftd.text: FifthTry-3
+max-width: 20
+
+-- ftd.text: FifthTry-4
+height: 60
+border-width: 2
+
+-- ftd.text: FifthTry-5
+min-height: 70
+border-width: 2
+
+-- ftd.text: FifthTry-6
+max-height: 10
+border-width: 2

@@ -1,0 +1,9 @@
+-- ftd.row:
+width: fill
+height: 300
+background-image: https://imgur.com/oCHWQQF.jpg
+
+-- ftd.text: Sample Text
+role: $fpm.type.heading-large
+align: center
+color: $fpm.color.main.text

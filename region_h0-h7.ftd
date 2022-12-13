@@ -1,0 +1,25 @@
+;; region h0 - h5 works as h1 - h6 tag in HTML but ftd h6 & h7 looks like normal text / is working in 0.2 not in 0.3
+
+-- ftd.text: hello
+region: h0
+
+-- ftd.text: hello
+region: h1
+
+-- ftd.text: hello
+region: h2
+
+-- ftd.text: hello
+region: h3
+
+-- ftd.text: hello
+region: h4
+
+-- ftd.text: hello
+region: h5
+
+-- ftd.text: hello
+region: h6
+
+-- ftd.text: hello
+region: h7

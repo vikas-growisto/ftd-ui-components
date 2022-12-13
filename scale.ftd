@@ -1,0 +1,25 @@
+;; scale is working in 0.2 not in 0.3
+
+-- ftd.color yellow:
+ light: yellow
+ dark: yellow
+
+-- ftd.color red:
+ light: red
+ dark: red
+
+
+-- ftd.text: FifthTry-1
+scale: 1.5
+background-color: $yellow
+padding: 5
+
+-- ftd.text: FifthTry-2
+scale-x: 0.5
+background-color: $red
+padding: 5
+
+-- ftd.text: FifthTry-3
+scale-y: 2
+background-color: $yellow
+padding: 5

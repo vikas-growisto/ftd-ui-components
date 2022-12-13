@@ -1,0 +1,13 @@
+;; top,left,right & bottom is not working in 0.2 & 0.3
+
+-- ftd.text: FifthTry-1
+top: 5
+
+-- ftd.text: FifthTry-2
+bottom: 5
+
+-- ftd.text: FifthTry-3
+left: 5
+
+-- ftd.text: FifthTry-4
+right: 5

@@ -1,0 +1,26 @@
+;; shadow offset is same as box shadow
+;; works in 0.2 not in 0.3
+
+-- ftd.text: FifthTry
+shadow-offset-x: 1
+
+-- ftd.text: FifthTry
+shadow-offset-y: 1
+
+
+-- ftd.color yellow:
+light: yellow
+dark: yellow
+
+-- ftd.color red:
+light: red
+dark: red
+
+-- ftd.text: FifthTry
+shadow-offset-x: 14
+shadow-offset-y: 10
+shadow-blur: 5
+shadow-size: 4
+shadow-color: $yellow
+padding: 20
+background-color: $red

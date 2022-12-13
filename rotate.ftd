@@ -1,0 +1,10 @@
+;; rotate is working in 0.2 not in 0.3
+
+-- ftd.color yellow:
+ light: yellow
+ dark: yellow
+
+-- ftd.text: FifthTry
+rotate: 20
+background-color: $yellow
+padding: 5

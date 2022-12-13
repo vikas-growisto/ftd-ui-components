@@ -1,0 +1,29 @@
+;; padding is working in 0.2 & 0.3
+
+-- ftd.text: FifthTry-1
+padding.px: 60
+border-width.px: 2
+
+-- ftd.text: FifthTry-2
+padding-vertical.px: 60
+border-width.px: 2
+
+-- ftd.text: FifthTry-3
+padding-horizontal.px: 60
+border-width.px: 2
+
+-- ftd.text: FifthTry-4
+padding-left.px: 60
+border-width.px: 2
+
+-- ftd.text: FifthTry-5
+padding-right.px: 60
+border-width.px: 2
+
+-- ftd.text: FifthTry-6
+padding-top.px: 60
+border-width.px: 2
+
+-- ftd.text: FifthTry-7
+padding-bottom.px: 60
+border-width.px: 2

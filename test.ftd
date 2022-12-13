@@ -1,5 +1,26 @@
--- ftd.text: FifthTry
-text-align: center
-width: 200
-height: 100
-style: strike
+-- ftd.color yellow:
+light: yellow
+dark: yellow
+
+-- ftd.color red:
+light: red
+dark: red
+
+-- ftd.column:
+padding: 80
+
+-- ftd.text: FifthTry Red
+z-index: 3
+background-color: $red
+left: 20
+top: 20
+padding: 40
+anchor: parent
+
+-- ftd.text: FifthTry Yellow
+z-index: 2
+background-color: $yellow
+left: 40
+top: 40
+padding: 40
+anchor: parent

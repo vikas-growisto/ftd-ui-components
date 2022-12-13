@@ -1,0 +1,8 @@
+;; link open in new tab is working in 0.2 not in 0.3
+
+-- ftd.text: google
+link: https://www.google.com
+
+-- ftd.text: google-new-tab
+link: https://www.google.com
+open-in-new-tab: true

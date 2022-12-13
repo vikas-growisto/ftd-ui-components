@@ -1,0 +1,48 @@
+;; border-top-radius,bottom-radius,right-radius & left-radius is working in 0.2 not in 0.3
+
+-- ftd.text: FifthTry
+border-width: 2
+
+-- ftd.text: FifthTry-1
+border-top: 2
+
+-- ftd.text: FifthTry-2
+border-bottom: 2
+
+-- ftd.text: FifthTry-3
+border-left: 2
+
+-- ftd.text: FifthTry-4
+border-right: 2
+
+-- ftd.text: FifthTry-5
+border-style: dashed
+border-width: 2
+
+-- ftd.color red:
+light: red
+dark: red
+
+-- ftd.text: FifthTry-6
+border-width: 2
+border-color: $red
+
+-- ftd.text: FifthTry-7
+border-width: 2
+border-radius: 50
+
+-- ftd.text: FifthTry-8
+border-width: 2
+border-top-radius: 50
+
+-- ftd.text: FifthTry-9
+border-width: 2
+border-bottom-radius: 50
+
+-- ftd.text: FifthTry-10
+border-width: 2
+border-left-radius: 50
+
+-- ftd.text: FifthTry-11
+border-width: 2
+border-right-radius: 50
